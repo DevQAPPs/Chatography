@@ -1,2 +1,2 @@
 # Chatography
-Application to view your chat history as Graphs statistics.
+Application to view your chat history as Graph statistics.
